@@ -17,55 +17,7 @@ Monthly expenses
 Net savings
 Spending breakdown by category
 Financial trends and history
-┌──────────────────────────────────────────────┐
-│ Current Balance                              │
-│ €2,845                                       │
-└──────────────────────────────────────────────┘
 
-┌────────────┬────────────┬────────────┐
-│ Income     │ Expenses   │ Savings    │
-│ €3,650     │ €805       │ €2,845     │
-└────────────┴────────────┴────────────┘
-
-┌──────────────────────────────────────────────┐
-│ Income vs Expenses                           │
-│ ████▇▆▇▅▃▂                                  │
-└──────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────┐
-│ Spending by Category                         │
-│ ◉ Food                                       │
-│ ◉ Housing                                    │
-│ ◉ Transport                                  │
-│ ◉ Entertainment                              │
-└──────────────────────────────────────────────┘
-Transactions
-
-Manage all financial transactions from a centralized view.
-
-Features:
-
-Fast search
-Advanced filtering
-Category assignment
-Merchant linking
-Receipt attachment
-Real-time balance calculations
-┌──────────────────────────────────────────────┐
-│ 🔍 Search Transactions                       │
-└──────────────────────────────────────────────┘
-
-[ All ] [ Expenses ] [ Income ]
-
-┌──────────────────────────────────────────────┐
-│ 🛒 Grocery Store            -€87.50          │
-│ Food • 05 May 2025                           │
-└──────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────┐
-│ 💼 Salary                  +€3,200.00        │
-│ Income • 01 May 2025                         │
-└──────────────────────────────────────────────┘
 Categories
 
 Create and customize financial categories to match your needs.
